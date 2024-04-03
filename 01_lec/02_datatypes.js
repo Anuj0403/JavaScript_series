@@ -27,7 +27,7 @@ let isLoggedIn=false
 console.log(typeof age);
 
 console.log(typeof null); //ans: object 
-console.log(typeof undefined); // ans: undefined
+console.log(typeof undefined); // ans: undefined 
 
 
 
