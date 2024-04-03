@@ -33,5 +33,32 @@ console.log(typeof stringNumber);
 //string 
 
 
+// operations ///
+
+let value=3
+let negValue= -value
+console.log(negValue);
+
+let str1="hello"
+let str2="anuj"
+let str3 = str1 +str2
+console.log(str3)//hello anuj
+
+console.log("1"+2);//12
+console.log(1+"2");//12
+console.log("1"+2+2);//122
+console.log(1+2+"2");//32 toprimitive conversion ecmascript rules 
+
+
+console.log(+true); // 1
+console.log(+"");//0
+
+let gameCounter=100;
+++gameCounter;
+console.log(gameCounter);
+//101
+
+
+
 
 
